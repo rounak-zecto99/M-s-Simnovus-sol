@@ -1,4 +1,3 @@
-# M-s-Simnovus-sol
 # Mini Device Fleet Monitor
 
 ## 1. What the Project Does
